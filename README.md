@@ -14,6 +14,8 @@ I am Krishika Sinha, a B.Tech Computer Science student with a strong interest in
 
 <img src="https://streak-stats.demolab.com/?user=KrishikaSinha&theme=vue-dark" />
 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KrishikaSinha&layout=compact&theme=vue-dark" />
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=KrishikaSinha&icon=0&color=0)](https://visitcount.itsvg.in)
