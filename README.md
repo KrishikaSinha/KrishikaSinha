@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Krishika Sinha, a B.Tech Computer Science student with a strong interest in technology and innovation. I enjoy working with Python, Java, and web development technologies (HTML, CSS, JavaScript, Flask) to build practical, real-world applications.<br><br>Currently, I am exploring Generative AI and continuously improving my problem-solving and development skills. I have worked on projects like Medinearby and Disaster Allocation System, focusing on solving real-life challenges through technology.<br><br>I am a quick learner, adaptable, and passionate about building impactful solutions while growing as a developer. 🚀
+I am Krishika Sinha, a B.Tech Computer Science student with a strong interest in technology and innovation. I enjoy working with Python, Java, and web development technologies (HTML, CSS, JavaScript, Flask) to build practical, real-world applications.<br><br>Currently, I am exploring Generative AI and continuously improving my problem-solving and development skills. I have worked on projects like Quick Cart, Continuous Learning Journey, Medinearby and Disaster Allocation System, focusing on solving real-life challenges through technology.<br><br>I am a quick learner, adaptable, and passionate about building impactful solutions while growing as a developer. 🚀
 
 
 ## 🌐 Socials:
