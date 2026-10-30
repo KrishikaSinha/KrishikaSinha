@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="140" viewBox="0 0 1000 140" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="bgw" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.5" stop-color="#1a0b33"/>
+      <stop offset="1" stop-color="#050505"/>
+    </linearGradient>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="0.5" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#6d28d9"/>
+    </linearGradient>
+    <style>
+      .w1 { animation: m 10s linear infinite; }
+      .w2 { animation: m 16s linear infinite reverse; }
+      .w3 { animation: m 24s linear infinite; }
+      @keyframes m { from { transform: translateX(0); } to { transform: translateX(-500px); } }
+    </style>
+  </defs>
+  <rect width="1000" height="140" fill="url(#bgw)"/>
+  <g class="w3" opacity="0.55"><path fill="#4c1d95" d="M0 65 Q125 25 250 65 T500 65 T750 65 T1000 65 T1250 65 T1500 65 V140 H0 Z"/></g>
+  <g class="w2" opacity="0.6"><path fill="#6d28d9" d="M0 85 Q125 50 250 85 T500 85 T750 85 T1000 85 T1250 85 T1500 85 V140 H0 Z"/></g>
+  <g class="w1" opacity="0.9"><path fill="url(#a)" d="M0 105 Q125 75 250 105 T500 105 T750 105 T1000 105 T1250 105 T1500 105 V140 H0 Z"/></g>
+</svg>
