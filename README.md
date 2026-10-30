@@ -6,8 +6,8 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LINKEDIN-2563eb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" alt="LinkedIn"/></a>
-<a href="https://github.com/YOUR_USERNAME?tab=followers"><img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=6d28d9&labelColor=050505" alt="Followers"/></a>
+<a href="https://www.linkedin.com/in/krishika-sinha-036047353"><img src="https://img.shields.io/badge/LINKEDIN-2563eb?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" alt="LinkedIn"/></a>
+<a href="https://github.com/KrishikaSinha?tab=followers"><img src="https://img.shields.io/github/followers/KrishikaSinha?style=for-the-badge&logo=github&color=6d28d9&labelColor=050505" alt="Followers"/></a>
 
 </div>
 
@@ -61,14 +61,7 @@ Currently, I am exploring **Generative AI** and continuously improving my **prob
 | 🏥 **Medinearby** | Helps users find nearby medical facilities quickly |
 | 🌪️ **Disaster Allocation System** | Resource allocation system for disaster situations |
 
-## 📊 GitHub Stats
-
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=050505&title_color=8b5cf6&icon_color=3b82f6&text_color=c4b5fd&border_color=4c1d95" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&bg_color=050505&title_color=8b5cf6&text_color=c4b5fd&border_color=4c1d95" />
-
-<br/><br/>
 
 *`// build . break . fix . repeat`*
 
