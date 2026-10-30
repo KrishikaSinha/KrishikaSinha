@@ -27,16 +27,17 @@ Currently, I am exploring **Generative AI** and continuously improving my **prob
 ### 🛠️ Tech Stack
 
 **Languages**<br/>
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,go,html,css&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,go,html,css,mysql&theme=dark" /><br/>
 
 **Frontend · Backend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tailwind,vite&theme=dark" /><br/>
 
 **Databases**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark" /><br/>
 
 **Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,render&theme=dark" />
+<img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
 
 </td>
 <td valign="top" width="50%">
